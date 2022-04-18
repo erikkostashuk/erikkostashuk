@@ -14,7 +14,7 @@ I am a Software Engineer from Canada.
 
 - 🔭 I’m a Software Engineer working on the backend for building mobile and web applications
 - 🌱 Please checkout my LinkedIn profile to learn more about my education and work background 
-- ⚡ I have worked with a wide range of technologies but prefer working wiht Python, JavaScript, and Dart/Flutter 
+- ⚡ I have worked with a wide range of technologies but prefer working with Python, JavaScript, and Dart/Flutter 
 - 📫 Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-erikkostashuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikkostashuk)
 
 ---
