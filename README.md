@@ -10,9 +10,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Software Engineer from Canada.
+I am a Software Developer from Canada.
 
-- 🔭 I’m a Software Engineer working on the backend for building mobile and web applications
+- 🔭 I’m a Software Developer working on the backend for building mobile and web applications
 - 🌱 Please checkout my LinkedIn profile to learn more about my education and work background 
 - ⚡ I have worked with a wide range of technologies but prefer working with Python, JavaScript, and Dart/Flutter 
 - 📫 Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-erikkostashuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikkostashuk)
