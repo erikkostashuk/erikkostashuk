@@ -10,9 +10,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-- 🔭 I’m a Software Developer working on building web and mobile applications
+- 🔭 I’m a Software Developer working on building amazing backend systems
 - 🌱 Please checkout my LinkedIn profile to learn more about my education and work background 
-- ⚡ I have worked with a wide range of technologies but prefer working with JavaScript and Python
+- ⚡ I have worked with a wide range of technologies but prefer working with Typescript and Python
 - 🍁 I am currently located in Canada! 
 - 📫 Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-erikkostashuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikkostashuk)
 
