@@ -10,7 +10,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-- 🔭 I’m a Software Developer working on building amazing backend systems
+- 🔭 I’m a Software Developer working on building enterprise backend systems
 - 🌱 Please checkout my LinkedIn profile to learn more about my education and work background 
 - ⚡ I have worked with a wide range of technologies but prefer working with Typescript and Python
 - 🍁 I am currently located in Canada! 
