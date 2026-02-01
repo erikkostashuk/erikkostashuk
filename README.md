@@ -13,7 +13,7 @@
 - 🔭 I'm a passionate Software Developer dedicated to crafting robust and scalable enterprise backend systems
 - ⚡ I have experience with various technologies, but I particularly enjoy working with TypeScript and Python
 - 🌱 Please checkout my LinkedIn profile to learn more about my education and work history
-- 🍁 I'm currently based in Canada and working remotely at [SSENSE](https://www.ssense.com)
+- 🍁 I'm currently based in Canada and working as a Software Developer at [Dialogue](https://www.dialogue.co/), previously at [SSENSE](https://www.ssense.com)
 - 🌍 Building [GeoClip.fun](https://www.geoclip.fun/), a super fun video-powered geography guessing game
 - 📫 Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-erikkostashuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikkostashuk)
 
